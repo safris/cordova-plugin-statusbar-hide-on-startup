@@ -1,4 +1,4 @@
-## Hide Statusbar on Startup Plugin for Apache Cordova
+## Hide Statusbar on Startup Plugin for Apache Cordova [![npm version](https://badge.fury.io/js/cordova-plugin-statusbar-hide-on-startup.svg)](http://badge.fury.io/js/cordova-plugin-statusbar-hide-on-startup)
 
 **Cordova / PhoneGap Plugin to hide the statusbar on startup of the application by adding a declaration to the Info.plist file to set the statusbar as hidden by default**
 
