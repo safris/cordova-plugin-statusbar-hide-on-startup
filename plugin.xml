@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<plugin id="cordova-plugin-statusbar-hide-on-startup" version="0.1.4" xmlns="http://apache.org/cordova/ns/plugins/1.0">
+<plugin id="cordova-plugin-statusbar-hide-on-startup" version="0.1.6" xmlns="http://apache.org/cordova/ns/plugins/1.0">
   <name>Hide Statusbar on Startup</name>
   <author>Seva Safris</author>
   <description>Cordova plugin to hide the statusbar on startup for iOS devices.</description>
