@@ -1,6 +1,8 @@
-# Hide Statusbar on Startup Plugin for Apache Cordova
+<img src="https://www.cohesionfirst.org/logo.png" align="right"/>
 
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.txt) [![npm version](https://badge.fury.io/js/cordova-plugin-statusbar-hide-on-startup.svg)](http://badge.fury.io/js/cordova-plugin-statusbar-hide-on-startup)
+## cordova-plugin-statusbar-hide-on-startup<br>[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.txt) [![npm version](https://badge.fury.io/js/cordova-plugin-statusbar-hide-on-startup.svg)](http://badge.fury.io/js/cordova-plugin-statusbar-hide-on-startup)
+> Hide Statusbar on Startup Plugin for Apache Cordova
+
 
 **Cordova / PhoneGap Plugin to hide the statusbar on startup of the application by adding a declaration to the Info.plist file to set the statusbar as hidden by default**
 
